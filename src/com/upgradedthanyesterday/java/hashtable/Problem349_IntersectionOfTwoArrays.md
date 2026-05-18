@@ -2,6 +2,8 @@
 
 Given two integer arrays `nums1` and `nums2`, return an array of their **intersection**. Each element in the result must be **unique** and you may return the result in **any order**.
 
+## Actual LeetCode problem URL : <a href="https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=problem-list-v2&envId=hash-table"><i><u>please find here</u></i></a>
+
 ---
 
 ## Examples
