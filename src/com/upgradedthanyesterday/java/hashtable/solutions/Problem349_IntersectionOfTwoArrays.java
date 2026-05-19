@@ -1,4 +1,4 @@
-package com.upgradedthanyesterday.java.hashtable;
+package com.upgradedthanyesterday.java.hashtable.solutions;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * Problem: Intersection of Two Arrays
  * <br>
- * See <a href="https://github.com/UpgradedThanYesterday/leet-code/blob/main/src/com/upgradedthanyesterday/java/hashtable/Problem349_IntersectionOfTwoArrays.md">Problem349_IntersectionOfTwoArrays</a>
+ * See <a href="https://github.com/UpgradedThanYesterday/leet-code/blob/main/src/com/upgradedthanyesterday/java/hashtable/problems/Problem349_IntersectionOfTwoArrays.md">Problem349_IntersectionOfTwoArrays</a>
  */
 public class Problem349_IntersectionOfTwoArrays {
     public int[] intersection(int[] nums1, int[] nums2) {

@@ -1,12 +1,11 @@
-package com.upgradedthanyesterday.java.hashtable;
+package com.upgradedthanyesterday.java.hashtable.solutions;
 
-import java.security.Key;
 import java.util.*;
 
 /**
- * Problem: Intersection of Two Arrays
+ * Problem: Find the differences between two Strings
  * <br>
- * See <a href="https://github.com/UpgradedThanYesterday/leet-code/blob/main/src/com/upgradedthanyesterday/java/hashtable/Problem389_FindTheDifference.md">Problem349_IntersectionOfTwoArrays</a>
+ * See <a href="https://github.com/UpgradedThanYesterday/leet-code/blob/main/src/com/upgradedthanyesterday/java/hashtable/problems/Problem389_FindTheDifference.md">Problem389_FindTheDifference</a>
  */
 public class Problem389_FindTheDifference {
     public char findTheDifference(String s, String t) {
